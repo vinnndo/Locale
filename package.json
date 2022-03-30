@@ -1,0 +1,26 @@
+{
+  "name": "onix-locale",
+  "version": "1.0.0",
+  "description": "Translation repo for Onix",
+  "module": "./index.js",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onix-Bot/Onix-Locale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onix-Bot/Onix-Locale.git/issues"
+  },
+  "homepage": "https://github.com/Onix-Bot/Onix-Locale.git#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
