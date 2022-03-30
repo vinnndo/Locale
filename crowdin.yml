@@ -1,6 +1,6 @@
 files:
-  - source: /en-UK/*
+  - source: /en-US/*
     translation: /%locale%/%original_file_name%
     update_option: update_as_unapproved
-  - source: /en-UK/docs/*
+  - source: /en-US/docs/*
     translation: /%locale%/docs/%original_file_name%
