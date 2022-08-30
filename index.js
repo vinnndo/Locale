@@ -5,7 +5,7 @@ const langsMap = {
 
 const availableLangs = Object.keys(langsMap);
 
-let obj = { devBot: require(`./lyra/bot.json`), devWeb: require(`./lyra/website.json`) };
+let obj = { devBot: require(`./onix/bot.json`), devWeb: require(`./onix/website.json`) };
 
 for (lang of availableLangs) obj[lang] = {
     bot: require(`./${lang}/bot.json`),
