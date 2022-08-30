@@ -1,6 +1,3 @@
 files:
-  - source: /en-US/*
-    translation: /%locale%/%original_file_name%
-    update_option: update_as_unapproved
-  - source: /en-US/docs/*
-    translation: /%locale%/docs/%original_file_name%
+  - source: /lyra/*
+    translation: /%two_letters_code%/%original_file_name%

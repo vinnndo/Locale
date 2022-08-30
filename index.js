@@ -1,5 +1,15 @@
-const botLanguages = {};
-botLanguages.ar = require('./ar-EG/bot.json');
-botLanguages.en = require('./en-US/bot.json');
+const langsMap = {
+    en: "English",
+    ar: "Arabic - العربية",
+};
 
-module.exports.botLangs = botLanguages;
+const availableLangs = Object.keys(langsMap);
+
+let obj = { devBot: require(`./lyra/bot.json`), devWeb: require(`./lyra/website.json`) };
+
+for (lang of availableLangs) obj[lang] = {
+    bot: require(`./${lang}/bot.json`),
+    web: require(`./${lang}/website.json`)
+}
+
+module.exports = { availableLangs, langsMap, trans: obj };
