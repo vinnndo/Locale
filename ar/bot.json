@@ -1,3 +1,7 @@
 {
-    "test": "testing 1"
+    "test": "اختبار 1",
+    "anime": {
+        "validSearch": "Please provide a valid name to search",
+        "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!"
+    }
 }
