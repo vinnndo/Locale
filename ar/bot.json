@@ -1,10 +1,10 @@
 {
   "test": "اختبار 1",
-  "setFoter": "Requested By: ",
+  "setFoter": "تم طلبة بواسطة: ",
   "anime": {
-    "InvalidSearch": "Please provide a valid name to search",
+    "InvalidSearch": "الرجاء إدخال اسم صالح للبحث",
     "nsfw": "يمكن استخدام هذا الأمر فقط في القنوات المحظورة عمراً (NSFW)!",
-    "waitSearch": "الرجاء الانتظار",
+    "waitSearch": "الرجاء الانتظار للبحث عن **{0}**...",
     "none": "لا شيء:",
     "type": "النوع:",
     "episodes": "الحلقات:",
@@ -18,21 +18,21 @@
     "rating": "التقييم:"
   },
   "calculator": {
-    "endTime": "The time to use the calculator is over, you only have 1 minute to use it",
-    "InvalidCalculator": "Please enter a correct calculation"
+    "endTime": "وقت استخدام الآلة الحاسبة قد انتهى، لديك فقط 1 دقيقة لاستخدامها",
+    "InvalidCalculator": "الرجاء إدخال الحساب الصحيح"
   },
   "color": {
-    "randoMColor": "Random Color",
-    "color": "Color:",
-    "InvalidSearch": "Please provide a valid color."
+    "randoMColor": "لون عشوائي",
+    "color": "اللون:",
+    "InvalidSearch": "الرجاء تقديم لون صالح."
   },
   "discrim": {
-    "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
-    "noFound": "No members found with the discriminator {0}",
-    "none": "None:",
-    "titleFound": "{0} members with the discriminator {1}",
-    "DescriptionFound": "Found {0} users with discriminator {1}",
-    "users": "Users:",
-    "result": "{0} and {1} more."
+    "InvalidSearch": "هاشتاغ غير صالح، يرجى تزويدي بتمييز مستخدم صالح.",
+    "noFound": "لم يتم العثور على أي أعضاء مع هاشتاغ {0}",
+    "none": "لا شيء:",
+    "titleFound": "{0} من الأعضاء مع {1} هاشتاغ",
+    "DescriptionFound": "تم العثور على {0} مستخدمين مع {1} هاشتاغ",
+    "users": "المستخدمين:",
+    "result": "{0} و {1} أكثر."
   }
 }
