@@ -4,7 +4,7 @@
   "anime": {
     "InvalidSearch": "Please provide a valid name to search",
     "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
-    "waitSearch": "Please wait for",
+    "waitSearch": "Please wait search for **{0}**...",
     "none": "None:",
     "type": "Type:",
     "episodes": "Episodes:",
