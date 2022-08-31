@@ -1,38 +1,38 @@
 {
-    "test": "testing 1",
-    "setFoter": "Requested By: ",
-    "anime" :{
-      "InvalidSearch": "Please provide a valid name to search",
-      "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
-      "waitSearch": "Please wait search for **{0}**...",
-      "none" : "None:",
-      "type" : "Type:",
-      "episodes" : "Episodes:",
-      "status" : "Status:",
-      "score" : "Score:",
-      "aired" : "Aired:",
-      "genres" : "Genres:",
-      "studios" : "Studios:",
-      "source" : "Source:",
-      "duration" : "Duration:",
-      "rating" : "Rating:"
-    },
-    "calculator":{
-      "endTime": "The time to use the calculator is over, you only have 1 minute to use it",
-      "InvalidCalculator": "Please enter a correct calculation"
-    },
-    "color":{
-      "randoMColor": "Random Color",
-      "color" : "Color:",
-      "InvalidSearch": "Please provide a valid color."
-    },
-    "discrim":{
-      "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
-      "noFound": "No members found with the discriminator **{0}**",
-      "none" : "None:",
-      "titleFound": "**${0}** members with the discriminator **{1}**",
-      "DescriptionFound" : "Found **${0}** users with discriminator **${1}",
-      "users": "Users:",
-      "result": "${0} and ${1} more."
-    }
+  "test": "testing 1",
+  "setFoter": "Requested By: ",
+  "anime" :{
+    "InvalidSearch": "Please provide a valid name to search",
+    "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
+    "waitSearch": "Please wait search for **{0}**...",
+    "none" : "None:",
+    "type" : "Type:",
+    "episodes" : "Episodes:",
+    "status" : "Status:",
+    "score" : "Score:",
+    "aired" : "Aired:",
+    "genres" : "Genres:",
+    "studios" : "Studios:",
+    "source" : "Source:",
+    "duration" : "Duration:",
+    "rating" : "Rating:"
+  },
+  "calculator":{
+    "endTime": "The time to use the calculator is over, you only have 1 minute to use it",
+    "InvalidCalculator": "Please enter a correct calculation"
+  },
+  "color":{
+    "randoMColor": "Random Color",
+    "color" : "Color:",
+    "InvalidSearch": "Please provide a valid color."
+  },
+  "discrim":{
+    "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
+    "noFound": "No members found with the discriminator {0}",
+    "none" : "None:",
+    "titleFound": "{0} members with the discriminator {1}",
+    "DescriptionFound" : "Found {0} users with discriminator {1}",
+    "users": "Users:",
+    "result": "{0} and {1} more."
   }
+}
