@@ -1,8 +1,8 @@
 {
-  "test": "testing 1",
-  "setFoter": "Requested By: ",
+  "test": "essai 1",
+  "setFoter": "Demandé par: ",
   "anime": {
-    "InvalidSearch": "Please provide a valid name to search",
+    "InvalidSearch": "Veuillez saisir un nom valide à rechercher",
     "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
     "waitSearch": "Please wait search for **{0}**...",
     "none": "None:",
