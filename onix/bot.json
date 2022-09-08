@@ -1,5 +1,6 @@
 {
   "Test": "testing 1",
+
   "SetFoter": "Requested By: ",
 
   "choose": {
@@ -53,20 +54,21 @@
   },
 
   "hide": {
-    "Result": "Hidden **{0}** form **{1}**."
+    "Result": "Hidden **{0}** from **{1}**."
   },
 
   "lock": {
-    "Result": "Locked **{0}** form **{1}**."
+    "Result": "Locked **{0}** from **{1}**."
   },
 
   "unlock": {
-    "Result": "Unlocked **{0}** form **{1}**."
+    "Result": "Unlocked **{0}** from **{1}**."
   },
 
   "show": {
     "Result": "Showed **{0}** for **{1}**."
   },
+  
   "kick": {
     "NotProvidedReason": "Not provided reason",
     "CantKickYourself": "You can't kick yourself!",
@@ -75,8 +77,6 @@
     "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
     "ResultKick": "**{0}** has been kicked."
   },
-
-
 
   "lockdown": {
     "NotReasonVrovided": "No reason provided!",
@@ -87,7 +87,6 @@
     "ResultDisableWithRole2Fields": "Lockdown not applicable to this role:",
     "ResultDisableWithRole3Fields": "Reason:"
   },
-
 
   "anime": {
     "InvalidSearch": "Please provide a valid name to search.",
@@ -110,11 +109,13 @@
     "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
     "InvalidCalculator": "Please enter a correct calculation."
   },
+
   "color": {
     "RandomColor": "Random Color",
     "Color": "Color:",
     "InvalidSearch": "Please provide a valid color."
   },
+
   "discrim": {
     "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
     "NoFound": "No members found with the discriminator {0}.",
