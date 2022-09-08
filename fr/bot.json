@@ -47,13 +47,13 @@
     "Result": "**{0}** has been given **{1}** role."
   },
   "hide": {
-    "Result": "Hidden **{0}** form **{1}**."
+    "Result": "Hidden **{0}** from **{1}**."
   },
   "lock": {
-    "Result": "Locked **{0}** form **{1}**."
+    "Result": "Locked **{0}** from **{1}**."
   },
   "unlock": {
-    "Result": "Unlocked **{0}** form **{1}**."
+    "Result": "Unlocked **{0}** from **{1}**."
   },
   "show": {
     "Result": "Showed **{0}** for **{1}**."
