@@ -7,8 +7,8 @@
     "Result": "I'm choosing : {0}."
   },
   "addemoji": {
-    "RestEmojiRegex": "Emoji name can only contain letters, numbers and underscores.",
-    "LongEmoji": "Emoji name can only be 32 characters long.",
+    "RestEmojiRegex": "Emoji name must contain only letters, numbers and underscores",
+    "LongEmoji": "The emoji name must be less than 32 characters long..",
     "Added": "Added",
     "Emoji": "emoji.",
     "InvalidEmoji": "Not vaild emoji."
