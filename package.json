@@ -1,19 +1,23 @@
 {
   "name": "locale",
+  "author": "https://github.com/AhmadShkour71",
+  "homepage": "https://github.com/Onix-Bot/Locale.git#readme",
+  "license": "MIT",
   "version": "1.0.0",
-  "description": "",
+  "description": "Translation repo for Onix",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write . --ignore-unknown",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Onix-Bot/Locale.git"
   },
-  "author": "Ahmad",
-  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
   "bugs": {
     "url": "https://github.com/Onix-Bot/Locale.git/issues"
-  },
-  "homepage": "https://github.com/Onix-Bot/Locale.git#readme"
+  }
 }

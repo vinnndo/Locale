@@ -2,25 +2,25 @@
   "Test": "testing 1",
   "SetFoter": "Requested By: ",
 
-  "choose":{
+  "choose": {
     "Minimum": "You must enter a minimum of 2 choose options.",
     "Maximum": "You must only enter a maximum of 5 choose options.",
-    "Result" :"I'm choosing : {0}."
+    "Result": "I'm choosing : {0}."
   },
 
-  "addemoji":{
+  "addemoji": {
     "RestEmojiRegex": "Emoji name can only contain letters, numbers and underscores.",
-    "LongEmoji" : "Emoji name can only be 32 characters long.",
-    "Added" : "Added",
+    "LongEmoji": "Emoji name can only be 32 characters long.",
+    "Added": "Added",
     "Emoji": "emoji.",
     "InvalidEmoji": "Not vaild emoji."
   },
 
-  "ban":{
+  "ban": {
     "CantBanYourself": "You can't ban yourself!",
     "CantBanMe": "You can't ban me!",
-    "CantBanThisUser":"i can't ban this user!",
-    "HigherPosision":"You can't ban a member who has the same role as you or a higher role than you.",
+    "CantBanThisUser": "i can't ban this user!",
+    "HigherPosision": "You can't ban a member who has the same role as you or a higher role than you.",
     "EmbedTitleBefore": "Ban User",
     "EmbedDescriptionBefore": "Select a reason for ban user.",
     "EmbedFields1Before": "User Name:",
@@ -33,88 +33,88 @@
     "MenuReason3Options": "Swearing",
     "MenuReason4Options": "NSFW",
     "MenuReason5Options": "Other",
-    "TimeOutMenu" : "The time is up, please be quick to choose an action!"
+    "TimeOutMenu": "The time is up, please be quick to choose an action!"
   },
 
-  "clear" : {
+  "clear": {
     "NoMessages": "There are no messages to delete.",
     "NoMessagesFromUser": "No messages to delete from **{0}**.",
     "MessagesFromUser": "**{0}** messages have been deleted from **{1}** messages.",
     "DeleteAfterSeconds": "The message will be deleted after 2 seconds.",
     "OldMessages": "There are no messages to delete or messages are over 14 days old.",
-    "Result" : "{0} message {1} were removed!"
+    "Result": "{0} message {1} were removed!"
   },
 
-  "fastrole":{
+  "fastrole": {
     "TitleRoleSetup": "FastRole System | Role Setup",
     "NotReady": "You are not setup FastRole System or Disable System, see {0} for more info.",
-    "NotFoundRole":"You are not setup FastRole System, see {0} for more info.",
-    "Result":"**{0}** has been given **{1}** role."
+    "NotFoundRole": "You are not setup FastRole System, see {0} for more info.",
+    "Result": "**{0}** has been given **{1}** role."
   },
 
-  "hide":{
-    "Result":"Hidden **{0}** for **${1}**."
+  "hide": {
+    "Result": "Hidden **{0}** for **{1}**."
   },
 
-  "kick":{
-    "NotProvidedReason" : "Not provided reason",
+  "kick": {
+    "NotProvidedReason": "Not provided reason",
     "CantKickYourself": "You can't kick yourself!",
     "CantKickMe": "You can't kick me!",
-    "CantKickThisUser":"i can't kick this user!",
-    "HigherPosision":"You can't kick a member who has the same role as you or a higher role than you.",
+    "CantKickThisUser": "i can't kick this user!",
+    "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
     "ResultKick": "**{0}** has been kicked."
   },
 
-    "lock":{
-      "Result":"Locked **{0}** for **${1}**."
-    },
+  "lock": {
+    "Result": "Locked **{0}** for **{1}**."
+  },
 
-    "lockdown":{
-      "NotReasonVrovided": "No reason provided!",
-      "ResultEnableWithRole1Fields": "Lockdown is now **__Enabled__**.",
-      "ResultEnableWithRole2Fields":"Lockdown not applicable to this role:",
-      "ResultEnableWithRole3Fields":"Reason:",
-      "ResultDisableWithRole1Fields": "Lockdown is now **__Disabled__**.",
-      "ResultDisableWithRole2Fields":"Lockdown not applicable to this role:",
-      "ResultDisableWithRole3Fields":"Reason:"
-    },
+  "lockdown": {
+    "NotReasonVrovided": "No reason provided!",
+    "ResultEnableWithRole1Fields": "Lockdown is now **__Enabled__**.",
+    "ResultEnableWithRole2Fields": "Lockdown not applicable to this role:",
+    "ResultEnableWithRole3Fields": "Reason:",
+    "ResultDisableWithRole1Fields": "Lockdown is now **__Disabled__**.",
+    "ResultDisableWithRole2Fields": "Lockdown not applicable to this role:",
+    "ResultDisableWithRole3Fields": "Reason:"
+  },
 
-    "show":{
-      "Result":"Showed **{0}** for **${1}**."
-    },
+  "show": {
+    "Result": "Showed **{0}** for **{1}**."
+  },
 
-  "anime" :{
+  "anime": {
     "InvalidSearch": "Please provide a valid name to search.",
     "Nsfw": "This command can only be used in Age-Restricted(NSFW) channels!.",
     "WaitSearch": "Please wait search for **{0}**...",
-    "None" : "None:",
-    "Type" : "Type:",
-    "Episodes" : "Episodes:",
-    "Status" : "Status:",
-    "Score" : "Score:",
-    "Aired" : "Aired:",
-    "Genres" : "Genres:",
-    "Studios" : "Studios:",
-    "Source" : "Source:",
-    "Duration" : "Duration:",
-    "Rating" : "Rating:"
+    "None": "None:",
+    "Type": "Type:",
+    "Episodes": "Episodes:",
+    "Status": "Status:",
+    "Score": "Score:",
+    "Aired": "Aired:",
+    "Genres": "Genres:",
+    "Studios": "Studios:",
+    "Source": "Source:",
+    "Duration": "Duration:",
+    "Rating": "Rating:"
   },
 
-  "calculator":{
+  "calculator": {
     "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
     "InvalidCalculator": "Please enter a correct calculation."
   },
-  "color":{
+  "color": {
     "RandomColor": "Random Color",
-    "Color" : "Color:",
+    "Color": "Color:",
     "InvalidSearch": "Please provide a valid color."
   },
-  "discrim":{
+  "discrim": {
     "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
     "NoFound": "No members found with the discriminator {0}.",
-    "None" : "None:",
+    "None": "None:",
     "TitleFound": "{0} members with the discriminator {1}.",
-    "DescriptionFound" : "Found {0} users with discriminator {1}.",
+    "DescriptionFound": "Found {0} users with discriminator {1}.",
     "Users": "Users:",
     "Result": "{0} and {1} more."
   }
