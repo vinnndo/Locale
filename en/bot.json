@@ -49,6 +49,15 @@
   "hide": {
     "Result": "Hidden **{0}** for **{1}**."
   },
+  "lock": {
+    "Result": "Locked **{0}** for **{1}**."
+  },
+  "unlock": {
+    "Result": "Unlocked **{0}** form **{1}**."
+  },
+  "show": {
+    "Result": "Showed **{0}** for **{1}**."
+  },
   "kick": {
     "NotProvidedReason": "Not provided reason",
     "CantKickYourself": "You can't kick yourself!",
@@ -56,9 +65,6 @@
     "CantKickThisUser": "i can't kick this user!",
     "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
     "ResultKick": "**{0}** has been kicked."
-  },
-  "lock": {
-    "Result": "Locked **{0}** for **{1}**."
   },
   "lockdown": {
     "NotReasonVrovided": "No reason provided!",
@@ -68,9 +74,6 @@
     "ResultDisableWithRole1Fields": "Lockdown is now **__Disabled__**.",
     "ResultDisableWithRole2Fields": "Lockdown not applicable to this role:",
     "ResultDisableWithRole3Fields": "Reason:"
-  },
-  "show": {
-    "Result": "Showed **{0}** for **{1}**."
   },
   "anime": {
     "InvalidSearch": "Please provide a valid name to search",
