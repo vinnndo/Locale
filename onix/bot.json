@@ -3,17 +3,17 @@
   "SetFoter": "Requested By: ",
 
   "choose":{
-    "Minimum": "You must enter a minimum of 2 choose options",
-    "Maximum": "You must only enter a maximum of 5 choose options",
-    "Result" :"I'm choosing : {0}"
+    "Minimum": "You must enter a minimum of 2 choose options.",
+    "Maximum": "You must only enter a maximum of 5 choose options.",
+    "Result" :"I'm choosing : {0}."
   },
 
   "addemoji":{
     "RestEmojiRegex": "Emoji name can only contain letters, numbers and underscores.",
     "LongEmoji" : "Emoji name can only be 32 characters long.",
     "Added" : "Added",
-    "Emoji": "emoji",
-    "InvalidEmoji": "Not vaild emoji"
+    "Emoji": "emoji.",
+    "InvalidEmoji": "Not vaild emoji."
   },
 
   "ban":{
@@ -39,16 +39,16 @@
   "clear" : {
     "NoMessages": "There are no messages to delete.",
     "NoMessagesFromUser": "No messages to delete from **{0}**.",
-    "MessagesFromUser": "**{0}** messages have been deleted from **{1}** messages",
-    "DeleteAfterSeconds": "The message will be deleted after 2 seconds",
+    "MessagesFromUser": "**{0}** messages have been deleted from **{1}** messages.",
+    "DeleteAfterSeconds": "The message will be deleted after 2 seconds.",
     "OldMessages": "There are no messages to delete or messages are over 14 days old.",
     "Result" : "{0} message {1} were removed!"
   },
 
   "fastrole":{
     "TitleRoleSetup": "FastRole System | Role Setup",
-    "NotReady": "You are not setup FastRole System or Disable System, see {0} for more info",
-    "NotFoundRole":"You are not setup FastRole System, see {0} for more info",
+    "NotReady": "You are not setup FastRole System or Disable System, see {0} for more info.",
+    "NotFoundRole":"You are not setup FastRole System, see {0} for more info.",
     "Result":"**{0}** has been given **{1}** role."
   },
 
@@ -83,8 +83,8 @@
     },
 
   "anime" :{
-    "InvalidSearch": "Please provide a valid name to search",
-    "Nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
+    "InvalidSearch": "Please provide a valid name to search.",
+    "Nsfw": "This command can only be used in Age-Restricted(NSFW) channels!.",
     "WaitSearch": "Please wait search for **{0}**...",
     "None" : "None:",
     "Type" : "Type:",
@@ -100,8 +100,8 @@
   },
 
   "calculator":{
-    "EndTime": "The time to use the calculator is over, you only have 1 minute to use it",
-    "InvalidCalculator": "Please enter a correct calculation"
+    "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
+    "InvalidCalculator": "Please enter a correct calculation."
   },
   "color":{
     "RandomColor": "Random Color",
@@ -110,10 +110,10 @@
   },
   "discrim":{
     "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
-    "NoFound": "No members found with the discriminator {0}",
+    "NoFound": "No members found with the discriminator {0}.",
     "None" : "None:",
-    "TitleFound": "{0} members with the discriminator {1}",
-    "DescriptionFound" : "Found {0} users with discriminator {1}",
+    "TitleFound": "{0} members with the discriminator {1}.",
+    "DescriptionFound" : "Found {0} users with discriminator {1}.",
     "Users": "Users:",
     "Result": "{0} and {1} more."
   }
