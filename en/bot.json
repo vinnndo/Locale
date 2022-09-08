@@ -53,7 +53,7 @@
     "Result": "Locked **{0}** for **{1}**."
   },
   "unlock": {
-    "Result": "Unlocked **{0}** form **{1}**."
+    "Result": "Unlocked **{0}** from **{1}**."
   },
   "show": {
     "Result": "Showed **{0}** for **{1}**."
