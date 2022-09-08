@@ -76,7 +76,7 @@
     "ResultDisableWithRole3Fields": "Reason:"
   },
   "anime": {
-    "InvalidSearch": "Please provide a valid name to search",
+    "InvalidSearch": "Please provide a valid name to search.",
     "Nsfw": "This command can only be used in Age-Restricted(NSFW) channels!.",
     "WaitSearch": "Please wait search for **{0}**...",
     "None": "None:",
@@ -93,7 +93,7 @@
   },
   "calculator": {
     "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
-    "InvalidCalculator": "Please enter a correct calculation"
+    "InvalidCalculator": "Please enter a correct calculation."
   },
   "color": {
     "RandomColor": "Random Color",
@@ -105,7 +105,7 @@
     "NoFound": "No members found with the discriminator {0}.",
     "None": "None:",
     "TitleFound": "{0} members with the discriminator {1}.",
-    "DescriptionFound": "Found {0} users with discriminator {1}",
+    "DescriptionFound": "Found {0} users with discriminator {1}.",
     "Users": "Users:",
     "Result": "{0} and {1} more."
   }
