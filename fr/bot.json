@@ -47,7 +47,16 @@
     "Result": "**{0}** has been given **{1}** role."
   },
   "hide": {
-    "Result": "Hidden **{0}** for **{1}**."
+    "Result": "Hidden **{0}** form **{1}**."
+  },
+  "lock": {
+    "Result": "Locked **{0}** form **{1}**."
+  },
+  "unlock": {
+    "Result": "Unlocked **{0}** form **{1}**."
+  },
+  "show": {
+    "Result": "Showed **{0}** for **{1}**."
   },
   "kick": {
     "NotProvidedReason": "Not provided reason",
@@ -57,9 +66,6 @@
     "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
     "ResultKick": "**{0}** has been kicked."
   },
-  "lock": {
-    "Result": "Locked **{0}** for **{1}**."
-  },
   "lockdown": {
     "NotReasonVrovided": "No reason provided!",
     "ResultEnableWithRole1Fields": "Lockdown is now **__Enabled__**.",
@@ -68,9 +74,6 @@
     "ResultDisableWithRole1Fields": "Lockdown is now **__Disabled__**.",
     "ResultDisableWithRole2Fields": "Lockdown not applicable to this role:",
     "ResultDisableWithRole3Fields": "Reason:"
-  },
-  "show": {
-    "Result": "Showed **{0}** for **{1}**."
   },
   "anime": {
     "InvalidSearch": "Veuillez saisir un nom valide à rechercher",
