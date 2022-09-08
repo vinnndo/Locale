@@ -1,14 +1,14 @@
 {
-  "Test": "testing 1",
-  "SetFoter": "Requested By: ",
+  "Test": "اختبار 1",
+  "SetFoter": "تم طلبة بواسطة: ",
   "choose": {
-    "Minimum": "You must enter a minimum of 2 choose options.",
-    "Maximum": "You must only enter a maximum of 5 choose options.",
-    "Result": "I'm choosing : {0}."
+    "Minimum": "يجب عليك إدخال خيارين على الأقل.",
+    "Maximum": "يجب عليك فقط إدخال 5 خيارات كحد أقصى.",
+    "Result": "أنا أختار : {0}."
   },
   "addemoji": {
-    "RestEmojiRegex": "Emoji name must contain only letters, numbers and underscores",
-    "LongEmoji": "The emoji name must be less than 32 characters long..",
+    "RestEmojiRegex": "اسم المستخدم يجب أن يحتوي فقط على أحرف وأرقام ومحارف سفلية.",
+    "LongEmoji": "يجب أن يكون اسم الرموز التعبيرية 32 حرفاً فقط.",
     "Added": "Added",
     "Emoji": "emoji.",
     "InvalidEmoji": "Not vaild emoji."
