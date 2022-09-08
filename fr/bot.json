@@ -47,7 +47,7 @@
     "Result": "**{0}** has been given **{1}** role."
   },
   "hide": {
-    "Result": "Hidden **{0}** for **${1}**."
+    "Result": "Hidden **{0}** for **{1}**."
   },
   "kick": {
     "NotProvidedReason": "Not provided reason",
@@ -58,7 +58,7 @@
     "ResultKick": "**{0}** has been kicked."
   },
   "lock": {
-    "Result": "Locked **{0}** for **${1}**."
+    "Result": "Locked **{0}** for **{1}**."
   },
   "lockdown": {
     "NotReasonVrovided": "No reason provided!",
@@ -70,7 +70,7 @@
     "ResultDisableWithRole3Fields": "Reason:"
   },
   "show": {
-    "Result": "Showed **{0}** for **${1}**."
+    "Result": "Showed **{0}** for **{1}**."
   },
   "anime": {
     "InvalidSearch": "Veuillez saisir un nom valide à rechercher",
