@@ -1,6 +1,37 @@
 {
   "test": "essai 1",
   "setFoter": "Demandé par: ",
+  "choose": {
+    "minimum": "You must enter a minimum of 2 choose options",
+    "maximum": "You must only enter a maximum of 5 choose options",
+    "result": "I'm choosing : {0}"
+  },
+  "addemoji": {
+    "testEmojiRegex": "Emoji name can only contain letters, numbers and underscores.",
+    "longEmoji": "Emoji name can only be 32 characters long.",
+    "added": "Added",
+    "emoji": "emoji",
+    "InvalidEmoji": "Not vaild emoji"
+  },
+  "ban": {
+    "CantBanYourself": "You can't ban yourself!",
+    "CantBanMe": "You can't ban me!",
+    "CantBanThisUser": "i can't ban this user!",
+    "HigherPosision": "You can't ban a member who has the same role as you or a higher role than you.",
+    "EmbedTitleBefore": "Ban User",
+    "EmbedDescriptionBefore": "Select a reason for ban user.",
+    "EmbedFields1Before": "User Name:",
+    "EmbedFields2Before": "User Id:",
+    "EmbedDescription0After": "**{0}** has been Banned.",
+    "EmbedDescription1After": "**{0}** has been banned\n> Delete all blocked member messages within {1} days.",
+    "MenuReasonPlaceholder": "Select a reason:",
+    "MenuReason1Options": "Spaming",
+    "MenuReason2Options": "Advertising",
+    "MenuReason3Options": "Swearing",
+    "MenuReason4Options": "NSFW",
+    "MenuReason5Options": "Other",
+    "TimeOutMenu": "The time is up, please be quick to choose an action!"
+  },
   "anime": {
     "InvalidSearch": "Veuillez saisir un nom valide à rechercher",
     "nsfw": "This command can only be used in Age-Restricted(NSFW) channels!",
