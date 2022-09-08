@@ -57,6 +57,7 @@
   },
 
   "kick":{
+    "NotProvidedReason" : "Not provided reason",
     "CantKickYourself": "You can't kick yourself!",
     "CantKickMe": "You can't kick me!",
     "CantKickThisUser":"i can't kick this user!",
