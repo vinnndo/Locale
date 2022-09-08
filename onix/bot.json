@@ -53,9 +53,20 @@
   },
 
   "hide": {
-    "Result": "Hidden **{0}** for **{1}**."
+    "Result": "Hidden **{0}** form **{1}**."
   },
 
+  "lock": {
+    "Result": "Locked **{0}** form **{1}**."
+  },
+
+  "unlock": {
+    "Result": "Unlocked **{0}** form **{1}**."
+  },
+
+  "show": {
+    "Result": "Showed **{0}** for **{1}**."
+  },
   "kick": {
     "NotProvidedReason": "Not provided reason",
     "CantKickYourself": "You can't kick yourself!",
@@ -65,9 +76,7 @@
     "ResultKick": "**{0}** has been kicked."
   },
 
-  "lock": {
-    "Result": "Locked **{0}** for **{1}**."
-  },
+
 
   "lockdown": {
     "NotReasonVrovided": "No reason provided!",
@@ -79,9 +88,6 @@
     "ResultDisableWithRole3Fields": "Reason:"
   },
 
-  "show": {
-    "Result": "Showed **{0}** for **{1}**."
-  },
 
   "anime": {
     "InvalidSearch": "Please provide a valid name to search.",
