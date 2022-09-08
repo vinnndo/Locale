@@ -53,7 +53,7 @@
     "Result": "تم قفل **{0}** من **{1}**."
   },
   "unlock": {
-    "Result": "Unlocked **{0}** from **{1}**."
+    "Result": "تم فتح **{0}** من **{1}**."
   },
   "show": {
     "Result": "عرض **{0}** لـ **{1}**."
@@ -76,37 +76,37 @@
     "ResultDisableWithRole3Fields": "السبب:"
   },
   "anime": {
-    "InvalidSearch": "الرجاء إدخال اسم صالح للبحث",
+    "InvalidSearch": "الرجاء إدخال اسم صالح للبحث.",
     "Nsfw": "يمكن استخدام هذا الأمر فقط في القنوات المحظورة عمراً (NSFW)!.",
     "WaitSearch": "الرجاء الانتظار للبحث عن **{0}**...",
     "None": "لا شيء:",
     "Type": "النوع:",
-    "Episodes": "Episodes:",
-    "Status": "Status:",
-    "Score": "Score:",
-    "Aired": "Aired:",
-    "Genres": "Genres:",
-    "Studios": "Studios:",
-    "Source": "Source:",
-    "Duration": "Duration:",
-    "Rating": "Rating:"
+    "Episodes": "الحلقات:",
+    "Status": "الحالة:",
+    "Score": "النقاط:",
+    "Aired": "تم بثه:",
+    "Genres": "النوع:",
+    "Studios": "الأستوديو:",
+    "Source": "المصدر:",
+    "Duration": "المدة:",
+    "Rating": "التقييم:"
   },
   "calculator": {
-    "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
-    "InvalidCalculator": "الرجاء إدخال الحساب الصحيح"
+    "EndTime": "وقت استخدام الآلة الحاسبة قد انتهى، لديك فقط 1 دقيقة لاستخدامها.",
+    "InvalidCalculator": "الرجاء إدخال الحساب الصحيح."
   },
   "color": {
-    "RandomColor": "Random Color",
-    "Color": "Color:",
+    "RandomColor": "لون عشوائي",
+    "Color": "اللون:",
     "InvalidSearch": "الرجاء تقديم لون صالح."
   },
   "discrim": {
     "InvalidSearch": "هاشتاغ غير صالح، يرجى تزويدي بتمييز مستخدم صالح.",
-    "NoFound": "No members found with the discriminator {0}.",
-    "None": "None:",
-    "TitleFound": "{0} members with the discriminator {1}.",
-    "DescriptionFound": "تم العثور على {0} مستخدمين مع {1} هاشتاغ",
-    "Users": "Users:",
-    "Result": "{0} and {1} more."
+    "NoFound": "لم يتم العثور على أي أعضاء مع هاشتاغ {0}.",
+    "None": "لا شيء:",
+    "TitleFound": "{0} من الأعضاء مع {1} هاشتاغ.",
+    "DescriptionFound": "تم العثور على {0} مستخدمين مع {1} هاشتاغ.",
+    "Users": "المستخدمين:",
+    "Result": "{0} و {1} أكثر."
   }
 }
