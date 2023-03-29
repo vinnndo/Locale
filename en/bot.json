@@ -16,8 +16,8 @@
   "ban": {
     "CantBanYourself": "You can't ban yourself!",
     "CantBanMe": "You can't ban me!",
-    "CantBanThisUser": "i can't ban this user!",
-    "HigherPosision": "You can't ban a member who has the same role as you or a higher role than you.",
+    "CantBanThisUser": "I can't ban this user!",
+    "HigherPosision": "You can't ban a member who has the same role or a higher role than you.",
     "EmbedTitleBefore": "Ban User",
     "EmbedDescriptionBefore": "Select a reason for ban user.",
     "EmbedFields1Before": "User Name:",
@@ -42,8 +42,8 @@
   },
   "fastrole": {
     "TitleRoleSetup": "FastRole System | Role Setup",
-    "NotReady": "You are not setup FastRole System or Disable System, see {0} for more info.",
-    "NotFoundRole": "You are not setup FastRole System, see {0} for more info.",
+    "NotReady": "You didn't setup FastRole System or Disable System, see {0} for more info.",
+    "NotFoundRole": "You didn't setup FastRole System, see {0} for more info.",
     "Result": "**{0}** has been given **{1}** role."
   },
   "hide": {
@@ -59,11 +59,11 @@
     "Result": "Showed **{0}** for **{1}**."
   },
   "kick": {
-    "NotProvidedReason": "Not provided reason",
+    "NotProvidedReason": "Reason not provided",
     "CantKickYourself": "You can't kick yourself!",
     "CantKickMe": "You can't kick me!",
-    "CantKickThisUser": "i can't kick this user!",
-    "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
+    "CantKickThisUser": "I can't kick this user!",
+    "HigherPosision": "You can't kick a member who has the same role or a higher role than you.",
     "ResultKick": "**{0}** has been kicked."
   },
   "lockdown": {
