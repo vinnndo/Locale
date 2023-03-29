@@ -1,112 +1,113 @@
 {
-  "Test": "testing 1",
-  "SetFoter": "Requested By: ",
+  "Test": "test 1",
+  "SetFoter": "Demandé par: ",
   "choose": {
-    "Minimum": "You must enter a minimum of 2 choose options.",
-    "Maximum": "You must only enter a maximum of 5 choose options.",
-    "Result": "I'm choosing : {0}."
+    "Minimum": "Vous devez saisir au moins 2 options.",
+    "Maximum": "Vous n'êtes autorisé à entrer qu'un maximum de 5 options.",
+    "Result": "Je choisis : {0}."
   },
   "addemoji": {
-    "RestEmojiRegex": "Emoji name must contain only letters, numbers and underscores.",
-    "LongEmoji": "The emoji name must be less than 32 characters long..",
-    "Added": "Added",
-    "Emoji": "emoji.",
-    "InvalidEmoji": "Not vaild emoji."
+    "RestEmojiRegex": "Les noms d'emoji ne peuvent contenir que des lettres, des chiffres et des traits de soulignement.",
+    "LongEmoji": "Le nom de l'emoji ne doit pas dépasser 32 caractères.",
+    "Added": "Ajouté",
+    "Emoji": "émoji.",
+    "InvalidEmoji": "Emoji non valide."
   },
   "ban": {
-    "CantBanYourself": "You can't ban yourself!",
-    "CantBanMe": "You can't ban me!",
-    "CantBanThisUser": "i can't ban this user!",
-    "HigherPosision": "You can't ban a member who has the same role as you or a higher role than you.",
-    "EmbedTitleBefore": "Ban User",
-    "EmbedDescriptionBefore": "Select a reason for ban user.",
-    "EmbedFields1Before": "User Name:",
-    "EmbedFields2Before": "User Id:",
-    "EmbedDescription0After": "**{0}** has been Banned.",
-    "EmbedDescription1After": "**{0}** has been banned\n> Delete all blocked member messages within {1} days.",
-    "MenuReasonPlaceholder": "Select a reason:",
-    "MenuReason1Options": "Spaming",
-    "MenuReason2Options": "Advertising",
-    "MenuReason3Options": "Swearing",
+    "CantBanYourself": "Vous ne pouvez pas vous interdire!",
+    "CantBanMe": "Tu ne peux pas m'interdire!",
+    "CantBanThisUser": "Je ne peux pas interdire cet utilisateur!",
+    "HigherPosision": "Vous ne pouvez pas bannir un membre qui a le même rôle que vous ou un rôle supérieur au vôtre.",
+    "EmbedTitleBefore": "Banni cet Utilisateur",
+    "EmbedDescriptionBefore": "Sélectionnez une raison pour bannir l'utilisateur..",
+    "EmbedFields1Before": "Nom d'utilisateur:",
+    "EmbedFields2Before": "ID de l'utilisateur:",
+    "EmbedDescription0After": "**{0}** a été banni.",
+    "EmbedDescription1After": "**{0}** a été banni\n> Supprimez tous les messages des membres bloqués dans les {1} jours.",
+    "MenuReasonPlaceholder": "Sélectionnez une raison:",
+    "MenuReason1Options": "Spammage",
+    "MenuReason2Options": "Publicité",
+    "MenuReason3Options": "Maudire",
     "MenuReason4Options": "NSFW",
-    "MenuReason5Options": "Other",
-    "TimeOutMenu": "The time is up, please be quick to choose an action!"
+    "MenuReason5Options": "Autre",
+    "TimeOutMenu": "Le temps est écoulé, soyez rapide pour choisir une action !"
   },
   "clear": {
-    "NoMessages": "There are no messages to delete.",
-    "NoMessagesFromUser": "No messages to delete from **{0}**.",
-    "MessagesFromUser": "**{0}** messages have been deleted from **{1}** messages.",
-    "DeleteAfterSeconds": "The message will be deleted after 2 seconds.",
-    "OldMessages": "There are no messages to delete or messages are over 14 days old.",
-    "Result": "{0} message {1} were removed!"
+    "NoMessages": "Il n'y a aucun message à supprimer.",
+    "NoMessagesFromUser": "Aucun message à supprimer de **{0}**.",
+    "MessagesFromUser": "**{0}** les messages ont été supprimés des messages **{1}**.",
+    "DeleteAfterSeconds": "Le message sera supprimé après 2 secondes.",
+    "OldMessages": "Il n'y a aucun message à supprimer ou les messages datent de plus de 14 jours.",
+    "Result": "{0} message {1} ont été supprimés !"
   },
   "fastrole": {
-    "TitleRoleSetup": "FastRole System | Role Setup",
-    "NotReady": "You are not setup FastRole System or Disable System, see {0} for more info.",
-    "NotFoundRole": "You are not setup FastRole System, see {0} for more info.",
-    "Result": "**{0}** has been given **{1}** role."
+    "TitleRoleSetup": "Système FastRole | Configuration du rôle",
+    "NotReady": "Vous n'êtes pas en train de configurer FastRole System ou Disable System, voir {0} pour plus d'informations.",
+    "NotFoundRole": "Vous n'êtes pas en train de configurer le système FastRole, consultez {0} pour plus d'informations.",
+    "Result": "**{0}** a reçu le rôle **{1}**."
   },
   "hide": {
-    "Result": "Hidden **{0}** from **{1}**."
+    "Result": "Caché **{0}** de **{1}**."
   },
   "lock": {
-    "Result": "Locked **{0}** from **{1}**."
+    "Result": "Verrouillé **{0}** de **{1}**.
+"
   },
   "unlock": {
-    "Result": "Unlocked **{0}** from **{1}**."
+    "Result": "Déverrouiller **{0}** de **{1}**."
   },
   "show": {
-    "Result": "Showed **{0}** for **{1}**."
+    "Result": "Montré **{0}** pour **{1}**."
   },
   "kick": {
-    "NotProvidedReason": "Not provided reason",
-    "CantKickYourself": "You can't kick yourself!",
-    "CantKickMe": "You can't kick me!",
-    "CantKickThisUser": "i can't kick this user!",
-    "HigherPosision": "You can't kick a member who has the same role as you or a higher role than you.",
-    "ResultKick": "**{0}** has been kicked."
+    "NotProvidedReason": "Raison non fournie",
+    "CantKickYourself": "Vous ne pouvez pas vous expulsez !",
+    "CantKickMe": "Tu ne peux pas me expulsez!",
+    "CantKickThisUser": "Je ne peux pas expulsez cet utilisateur !",
+    "HigherPosision": "Vous ne pouvez pas expulsez un membre qui a le même rôle que vous ou un rôle supérieur à vous.",
+    "ResultKick": "**{0}** a été expulsé."
   },
   "lockdown": {
-    "NotReasonVrovided": "No reason provided!",
-    "ResultEnableWithRole1Fields": "Lockdown is now **__Enabled__**.",
-    "ResultEnableWithRole2Fields": "Lockdown not applicable to this role:",
-    "ResultEnableWithRole3Fields": "Reason:",
-    "ResultDisableWithRole1Fields": "Lockdown is now **__Disabled__**.",
-    "ResultDisableWithRole2Fields": "Lockdown not applicable to this role:",
-    "ResultDisableWithRole3Fields": "Reason:"
+    "NotReasonVrovided": "Aucune raison fournie!",
+    "ResultEnableWithRole1Fields": "Le confinement est **__Activé__**.",
+    "ResultEnableWithRole2Fields": "Le confinement ne s'applique pas à ce rôle :",
+    "ResultEnableWithRole3Fields": "Raison:",
+    "ResultDisableWithRole1Fields": "Le confinement est **__Désactivé__**.",
+    "ResultDisableWithRole2Fields": "Le confinement ne s'applique pas à ce rôle:",
+    "ResultDisableWithRole3Fields": "Raison:"
   },
   "anime": {
     "InvalidSearch": "Veuillez saisir un nom valide à rechercher",
-    "Nsfw": "This command can only be used in Age-Restricted(NSFW) channels!.",
-    "WaitSearch": "Please wait search for **{0}**...",
-    "None": "None:",
+    "Nsfw": "Cette commande ne peut être utilisée que dans les canaux avec restriction d'âge (NSFW) !.",
+    "WaitSearch": "Veuillez patienter, recherchez **{0}**...",
+    "None": "Aucun",
     "Type": "Type:",
-    "Episodes": "Episodes:",
-    "Status": "Status:",
+    "Episodes": "Épisodes:",
+    "Status": "Statut:",
     "Score": "Score:",
-    "Aired": "Aired:",
-    "Genres": "Genres:",
+    "Aired": "Diffusé:",
+    "Genres": "Genre:",
     "Studios": "Studios:",
     "Source": "Source:",
-    "Duration": "Duration:",
-    "Rating": "Rating:"
+    "Duration": "Durée:",
+    "Rating": "Notation:"
   },
   "calculator": {
-    "EndTime": "The time to use the calculator is over, you only have 1 minute to use it.",
-    "InvalidCalculator": "Please enter a correct calculation."
+    "EndTime": "Le temps d'utiliser la calculatrice est révolu, vous n'avez plus qu'1 minute pour l'utiliser.",
+    "InvalidCalculator": "Veuillez entrer un calcul correct."
   },
   "color": {
-    "RandomColor": "Random Color",
-    "Color": "Color:",
-    "InvalidSearch": "Please provide a valid color."
+    "RandomColor": "Couleur aléatoire",
+    "Color": "Couleur:",
+    "InvalidSearch": "Veuillez fournir une couleur valide."
   },
   "discrim": {
-    "InvalidSearch": "Invalid discriminator, Please provide me with a valid user discriminator.",
-    "NoFound": "No members found with the discriminator {0}.",
-    "None": "None:",
-    "TitleFound": "{0} members with the discriminator {1}.",
-    "DescriptionFound": "Found {0} users with discriminator {1}.",
-    "Users": "Users:",
-    "Result": "{0} and {1} more."
+    "InvalidSearch": "Discriminateur non valide, veuillez me fournir un discriminateur d'utilisateur valide.",
+    "NoFound": "Aucun membre trouvé avec le discriminateur {0}.",
+    "None": "Aucun:",
+    "TitleFound": "{0} membres avec le discriminateur {1}.",
+    "DescriptionFound": "{0} utilisateurs trouvés avec le discriminateur {1}.",
+    "Users": "Utilisateurs:",
+    "Result": "{0} et {1} plus."
   }
 }
